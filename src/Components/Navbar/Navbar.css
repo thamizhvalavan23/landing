@@ -1,0 +1,33 @@
+.navbar-data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin:20px 40px;
+}
+.navbar-name h1{
+    color: white;
+    font-size:25px;
+}
+.navbar-menu ul{
+    display: flex;
+    list-style: none;
+    color: white;
+    font-size:16px;
+    gap:50px;
+    cursor: pointer;
+}
+.contact{
+    width: 150px;
+    height: 40px;
+    color: black;
+    background-color: white;
+    border-radius:20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    top: -7px;
+    position: relative;
+}
+
+
