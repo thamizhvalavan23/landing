@@ -1,8 +1,42 @@
-# React + Vite
+# ⚡ EV Launching Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive landing page for an **Electric Vehicle (EV)** launch event, designed with clean UI and smooth layout for showcasing product features, specifications, and promotional content.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Click here to view](https://evlanding.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🎯 Project Highlights
+
+- 🚗 Sleek and modern EV product showcase
+- 📱 Fully responsive layout (Mobile + Tablet + Desktop)
+- 🎨 Eye-catching sections for features, specs, and CTA
+- ⚡ Fast-loading and SEO-friendly HTML/CSS structure
+- ✨ Smooth user experience with engaging design elements
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Frameworks:** Bootstrap / Tailwind CSS (if used)
+- **Hosting:** Netlify
+
+
+## 📁 Folder Structure
+
+```bash
+ev-landing-page/
+├── index.html
+├── styles.css
+├── script.js
+├── assets/
+
+
+🧑‍💻 Author
+Thamizh Valavan (Basha)
+📧 thamizhvalavan21@gmail.com
+🔗 LinkedIn
+💻 GitHub
+
+
